@@ -1,0 +1,2 @@
+Hi world!
+I'm trying "add", "status", committing in Git once again!
