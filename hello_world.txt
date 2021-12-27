@@ -1,2 +1,4 @@
 Hi world!
 I'm trying "add", "status", committing in Git once again!
+
+Testing git config --global core.editor "code --wait"
